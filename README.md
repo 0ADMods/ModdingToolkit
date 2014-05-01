@@ -24,3 +24,6 @@ theme
 screenshots
 and side info, will open folder for each
 
+========================================================
+Side note, i will let people view code once they message me via the irc, and they will recieve password
+(if i find the password give out i will change the password with every update)
